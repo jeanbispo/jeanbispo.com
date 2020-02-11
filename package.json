@@ -1,0 +1,25 @@
+{
+  "name": "jeanbispo.com",
+  "version": "1.0.0",
+  "description": "Novo site pessoal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Bispo",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-rename": "^1.2.2"
+  },
+  "dependencies": {
+    "gulp-css-gsub": "^2.6.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-svgmin": "^2.2.0",
+    "gulp-watch": "^4.3.5",
+    "through2": "^2.0.0"
+  }
+}
